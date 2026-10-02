@@ -215,45 +215,18 @@ Use the FAQ for short product answers. Use comparison and role pages for workflo
 
 ## Pricing and Plans
 
-Public subscription names are Starter, Pro, Ultra, and Max. Internal tier keys premium and business correspond to the public names Ultra and Max. Say Ultra and Max to users.
+Public subscription names are Starter, Pro, Ultra, and Max. Say those names to users. Monthly and yearly billing are both offered. One-time packs do not renew, and those tokens do not expire. Subscribers can buy extra tokens from account settings. Enterprise requests go through the contact form.
 
-Current public prices:
+Do not state a price, a token allowance, a per-generation token cost, or a "materials per month" count from memory. Those numbers change. Send users to:
 
-- Starter: $39 / month, or $19 / month billed yearly ($229 / year). 1,500 tokens / month.
-- Pro: $99 / month, or $49 / month billed yearly ($599 / year). 4,000 tokens / month.
-- Ultra: $299 / month, or $149 / month billed yearly ($1,799 / year). 13,000 tokens / month.
-- Max: $699 / month, or $349 / month billed yearly ($4,199 / year). 32,000 tokens / month.
+- https://texturesfast.com/pricing
+- https://texturesfast.com/pricing-packs
 
-The pricing page's "up to N PBR materials / month" line uses a 512 Text to Material full set (six maps, 21 tokens) as the estimate: about 71, 190, 619, and 1,523 materials. That estimate overstates output if the user generates at 2K, 4K, 8K, or with Extract Material.
+The generate button in the dashboard is the quote for the settings the user has selected. Cost depends on workflow, resolution, and how many maps are selected. Extract Material costs more than Text to Material at the same resolution. Image to Maps costs less and only offers 512 and 1K. Deselecting maps lowers the cost.
 
-Illustrative full-set token costs for Text to Material, all six maps:
+Resolution access also depends on the plan. Subscriptions can reach 8K. One-time packs stop lower. Accounts without a paid plan stop at 1K. Confirm the current cap on the pricing page and in the dashboard.
 
-- 512: 21 tokens
-- 1K: 60 tokens
-- 2K: 75 tokens
-- 4K: 121 tokens
-- 8K: 459 tokens
-
-Extract Material costs more at the same resolution. Image to Maps costs less and only offers 512 and 1K. Deselecting maps lowers the cost. The generate button is the exact quote.
-
-One-time packs, tokens do not expire, max resolution 4K:
-
-- Starter: $19 for 500 tokens (about 23 full 512 sets).
-- Pro: $39 for 1,000 tokens (about 47).
-- Ultra: $49 for 2,000 tokens (about 95).
-
-Subscriber top-up packs in account settings, separate from the monthly allowance:
-
-- 500 tokens for $15
-- 1,000 tokens for $25
-- 2,500 tokens for $55
-- 5,000 tokens for $100
-
-Support: Starter and Pro include email. Ultra adds priority email. Max adds priority support and WhatsApp. Enterprise pricing is requested through the contact form.
-
-Cancel from Settings. Refund requests are reviewed case by case and should be sent within 14 days of purchase. Because delivery is digital, the Terms state that the right to cancel can end once generation, token use, or download starts. Read https://texturesfast.com/terms.
-
-Always send users to https://texturesfast.com/pricing and https://texturesfast.com/pricing-packs for the live numbers.
+Support level differs by plan. The pricing page lists it. Cancel from Settings. For refunds, read https://texturesfast.com/terms. Do not restate refund windows or dollar amounts from memory.
 
 ## Privacy and Data Handling
 
