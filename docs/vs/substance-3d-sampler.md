@@ -58,7 +58,7 @@ One material in frame. Even light. Little blur. Little perspective. A busy photo
 
 Sampler comes with a Substance subscription. Check Adobe.
 
-TexturesFast charges tokens per generation. Extract Material costs more than Text to Material at the same resolution. Subscriptions start at $39 / month. One-time packs start at $19. The button shows the cost before you run it.
+TexturesFast charges tokens per generation. Extract Material costs more than Text to Material at the same resolution. The button shows the cost before you run it. Prices and allowances are only on the pricing page.
 
 Live prices: https://texturesfast.com/pricing
 
