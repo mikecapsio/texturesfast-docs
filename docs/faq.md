@@ -108,24 +108,13 @@ Yes, for wood, stone, metal, fabric, concrete, tile, and wall finishes. Export t
 
 ### How do tokens work?
 
-Each generation spends tokens. The cost depends on the workflow, the resolution, and the number of maps. The dashboard shows the number before you generate. Subscription allowances renew on the billing cycle. One-time pack tokens do not expire.
-
-A public estimate on the pricing page treats one full 512 Text to Material set (six maps) as 21 tokens. Extract Material and higher resolutions cost more, so you will get fewer materials than that headline number if you work at 4K or 8K.
+Each generation spends tokens. The cost depends on the workflow, the resolution, and the number of maps. The dashboard shows the number before you generate. Subscription allowances renew on the billing cycle. One-time pack tokens do not expire. Current prices and allowances are only on the pricing pages.
 
 ### What are the plans?
 
-Public subscription names:
+Public subscription names are Starter, Pro, Ultra, and Max, with monthly and yearly billing. One-time packs do not renew. Subscribers can buy extra tokens from account settings. Enterprise volume is requested through the contact form.
 
-- Starter — $39 / month, or $19 / month billed yearly ($229 / year), 1,500 tokens
-- Pro — $99 / month, or $49 / month billed yearly ($599 / year), 4,000 tokens
-- Ultra — $299 / month, or $149 / month billed yearly ($1,799 / year), 13,000 tokens
-- Max — $699 / month, or $349 / month billed yearly ($4,199 / year), 32,000 tokens
-
-All four include the three workflows, full map generation, history, commercial use, and up to 8K. Confirm the live table at https://texturesfast.com/pricing.
-
-One-time packs start at $19, cap resolution at 4K, and do not renew: https://texturesfast.com/pricing-packs
-
-Subscribers can buy extra token packs in account settings. Enterprise volume is requested through the contact form.
+Prices, token amounts, resolution caps, and support level are on https://texturesfast.com/pricing and https://texturesfast.com/pricing-packs. This document does not repeat them.
 
 ### Can I use the textures commercially?
 
@@ -133,7 +122,7 @@ Yes. Textures generated on paid plans include a commercial license. The public F
 
 ### Does TexturesFast support teams?
 
-Business-scale use is the Max plan (higher token allowance, priority support, WhatsApp) plus the commercial license that all paid plans include. Custom or enterprise needs go through the contact form. There is no separate onboarding call for Starter, Pro, Ultra, or Max.
+Paid plans include commercial use of generated textures. Higher plans add a larger token allowance and a higher support level. The pricing page lists the current split. Custom or enterprise needs go through the contact form. Starter, Pro, Ultra, and Max are self-serve. There is no onboarding call for those plans.
 
 ### Is payment secure?
 
@@ -145,7 +134,7 @@ Log in, open Settings, and cancel from the subscription controls. You do not nee
 
 ### What is the refund policy?
 
-The Terms say refund requests are reviewed case by case and should be submitted within 14 days of purchase. Refunds may be refused for fraud or abuse. Because the product is digital, the Terms also say the right to cancel can end once generation, token use, or a download starts.
+Refund rules are in the Terms of Service, including when a request can be reviewed and when digital delivery ends the right to cancel. Read https://texturesfast.com/terms rather than relying on a restated window.
 
 ### Is TexturesFast available in my country?
 
@@ -199,7 +188,7 @@ Poliigon, Poly Haven, and similar catalogs give you an existing scan or photo ma
 
 Email team@texturesfast.com, message @texturesfast on X, or use the contact form at https://texturesfast.com/contact. Public copy says support email is typically answered within 24 hours.
 
-Starter and Pro include email support. Ultra adds priority email. Max adds priority support and WhatsApp.
+The support level depends on the plan. The pricing page lists the current split.
 
 ### Why did generation fail?
 
