@@ -43,11 +43,9 @@ A full set can include:
 - Metallic
 - Ambient Occlusion
 
-Subscription plans (Starter, Pro, Ultra, and Max) unlock resolutions up to 8K (8192×8192). One-time token packs unlock up to 4K. Image to Maps stays at 512 or 1K because that workflow does not upscale.
+Subscription plans can export up to 8K. One-time token packs stop at a lower resolution. Image to Maps stays at 512 or 1K. The pricing page and the dashboard show the current cap for each plan.
 
-Token cost depends on the workflow, the resolution, and how many maps you select. The dashboard shows the cost before you generate. The public "materials per month" figures on the pricing page are estimates for a 512 Text to Material set with all six maps (21 tokens). Extract Material and higher resolutions use more tokens, so the real count is lower.
-
-Check the live product UI if a control, limit, or price looks different from this file.
+Each generation spends tokens. Cost depends on the workflow, the resolution, and how many maps you select. The dashboard shows that cost before you generate. Prices, token allowances, and plan limits are only on https://texturesfast.com/pricing and https://texturesfast.com/pricing-packs.
 
 ## Privacy and commercial-use notes
 
@@ -59,30 +57,11 @@ Pricing labels paid plans NDA-safe. That label matches those public commitments.
 
 You keep ownership of prompts, uploads, and generated outputs. Paid plans add a commercial-use license for those outputs, subject to the Terms of Service. Review every map in the target renderer before you ship it. AI output can contain seams, odd detail, or lighting that does not match the scene.
 
-## Pricing snapshot
+## Plans
 
-These figures match the current product source. The live pricing pages override them if they change.
+Public subscription names are Starter, Pro, Ultra, and Max. Monthly and yearly billing are both offered. One-time packs do not renew, and those tokens do not expire. Subscribers can buy extra tokens from account settings. Enterprise volume goes through the contact form.
 
-Monthly subscriptions, also available yearly at a lower monthly rate:
-
-| Plan | Monthly | Yearly rate | Yearly total | Tokens / month | About this many 512 full sets |
-| --- | --- | --- | --- | --- | --- |
-| Starter | $39 | $19 / month | $229 | 1,500 | 71 |
-| Pro | $99 | $49 / month | $599 | 4,000 | 190 |
-| Ultra | $299 | $149 / month | $1,799 | 13,000 | 619 |
-| Max | $699 | $349 / month | $4,199 | 32,000 | 1,523 |
-
-All four include the three workflows, full map generation, history, commercial use, and up to 8K. Starter and Pro include email support. Ultra adds priority email. Max adds priority support and WhatsApp.
-
-One-time packs have no renewal. The tokens do not expire, and the resolution cap is 4K:
-
-| Pack | Price | Tokens | About this many 512 full sets |
-| --- | --- | --- | --- |
-| Starter | $19 | 500 | 23 |
-| Pro | $39 | 1,000 | 47 |
-| Ultra | $49 | 2,000 | 95 |
-
-Subscribers can also buy extra token packs in account settings. Current packs are 500 tokens for $15, 1,000 for $25, 2,500 for $55, and 5,000 for $100. Enterprise volume is arranged through the contact form, not self-serve checkout.
+Paid plans include a commercial-use license, subject to the Terms of Service. What each plan includes, including price, token allowance, resolution, and support, is on the live pricing pages.
 
 Cancel a subscription anytime from Settings. One-time packs have nothing to cancel.
 
@@ -103,12 +82,8 @@ Cancel a subscription anytime from Settings. One-time packs have nothing to canc
 
 The live TexturesFast website is authoritative for current pricing, plan access, feature availability, file limits, and legal terms.
 
-## How to publish this folder
-
-Copy the contents of this folder into an empty public repository. Keep this layout:
+## Repository layout
 
 - `README.md` at the repository root
 - `llms.txt` at the repository root
 - `docs/` for the guides, role pages, and comparisons
-
-Do not commit `.env` files, credentials, or anything from the TexturesFast application repository. This folder is public product copy only.
