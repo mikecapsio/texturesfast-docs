@@ -125,7 +125,7 @@ Select the channels the shader will use:
 - Metallic
 - Ambient Occlusion
 
-At least one map is required. Turning maps off makes the run cheaper and faster. A full six-map Text to Material at 512 is the basis for the "materials per month" estimate on the pricing page, at 21 tokens.
+At least one map is required. Turning maps off makes the run cheaper and faster. The dashboard shows the token cost for the maps and resolution you picked.
 
 ### Resolution
 
@@ -139,7 +139,7 @@ At least one map is required. Turning maps off makes the run cheaper and faster.
 
 Image to Maps stops at 1K.
 
-Generate a direction at 512 or 1K first. Move to 2K, 4K, or 8K after the prompt is right. An 8K full Text to Material set costs far more tokens than a 512 test (on the order of 459 tokens versus 21 for all six maps).
+Generate a direction at 512 or 1K first. Move to 2K, 4K, or 8K after the prompt is right. Higher resolutions cost more tokens. The generate button shows the number.
 
 ### Tiling
 
