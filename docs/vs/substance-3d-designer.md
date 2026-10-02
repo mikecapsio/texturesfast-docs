@@ -60,7 +60,7 @@ TexturesFast can start from a photo. Designer can too, as a bitmap node inside a
 
 Designer is part of Adobe's Substance plans. Check Adobe for the current price.
 
-TexturesFast uses tokens. Subscriptions are Starter, Pro, Ultra, and Max, from $39 / month. One-time packs start at $19, do not renew, and stop at 4K. The generate button shows the token cost before a run.
+TexturesFast uses tokens. Subscriptions are Starter, Pro, Ultra, and Max. One-time packs do not renew. The generate button shows the token cost before a run. Prices and allowances are only on the pricing page.
 
 Live prices: https://texturesfast.com/pricing
 
