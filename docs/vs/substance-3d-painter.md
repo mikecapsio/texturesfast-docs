@@ -63,7 +63,7 @@ TexturesFast processes the prompt and, for Extract Material or Image to Maps, th
 
 Painter is part of Adobe's Substance subscription. Check Adobe for the current plan.
 
-TexturesFast uses tokens. Public subscriptions are Starter, Pro, Ultra, and Max, from $39 / month, with yearly billing. One-time packs start at $19, do not renew, and cap resolution at 4K. Commercial use on paid plans is covered by the Terms of Service.
+TexturesFast uses tokens. Public subscriptions are Starter, Pro, Ultra, and Max, with monthly and yearly billing. One-time packs do not renew. Commercial use on paid plans is covered by the Terms of Service. Prices and allowances are only on the pricing page.
 
 Live prices: https://texturesfast.com/pricing
 
