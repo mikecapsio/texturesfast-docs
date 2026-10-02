@@ -60,7 +60,7 @@ StandardMaterial3D takes albedo, normal, roughness, metallic, height, and AO dir
 
 ## Tokens and shipping
 
-Each generation spends tokens based on workflow, resolution, and map count. The button shows the cost. A 512 six-map Text to Material set is 21 tokens, which is the estimate behind the pricing page's "materials per month" line. An 8K full set is hundreds of tokens. Test cheap, export expensive.
+Each generation spends tokens based on workflow, resolution, and map count. The button shows the cost. Test at a lower resolution, then export the approved look at the size the shot needs. Current prices and allowances are on https://texturesfast.com/pricing.
 
 Paid plans include a commercial-use license under the Terms of Service. You still review maps before they ship, and you still need rights to every prompt and upload.
 
