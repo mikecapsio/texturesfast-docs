@@ -66,7 +66,7 @@ A hybrid workflow:
 
 Poliigon sells access to downloads. The meter is their credits or plan, and it scales with how the team downloads.
 
-TexturesFast sells generation. Subscriptions are Starter, Pro, Ultra, and Max, from $39 / month, with token allowances that renew. One-time packs start at $19 and the tokens do not expire. You spend tokens when you generate, not when you re-download a map you already saved.
+TexturesFast sells generation. Subscriptions are Starter, Pro, Ultra, and Max. Token allowances renew on the billing cycle. One-time pack tokens do not expire. You spend tokens when you generate, not when you re-download a map you already saved. Prices and allowances are only on the pricing page.
 
 Live prices: https://texturesfast.com/pricing
 
